@@ -1,7 +1,7 @@
 import java.util.List;
 import java.util.ArrayList;
 import java.util.Arrays;
-class Solution {
+class MinHeapMain {
     public static void main(String args[]){
         MinHeap h=new MinHeap();
         double arr[]=new double[]{3,7,9,23,45,1,5,14,55,24,13,11,8,19,4,31,35,56};
